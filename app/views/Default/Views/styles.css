@@ -12,7 +12,8 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  text-align: center;
   width: 200px;
-  height: 180px;
+  height: 230px;
   margin: 0 auto;
 }
