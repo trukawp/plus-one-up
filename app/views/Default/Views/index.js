@@ -41,6 +41,8 @@ const Views = (props) => (
           backgroundColor="#E53935"
           labelColor="#FFFFFF"
         />
+        <a href="/admin">Admin View</a>
+        <a href="/coach">Coach View</a>
       </div>
     </MuiThemeProvider>
   </div>
