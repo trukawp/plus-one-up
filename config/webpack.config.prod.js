@@ -1,5 +1,3 @@
-// konfiguracja Webpack dla środowsika produkcyjnego, "dziedziczy" po konfiguracji Webpack
-
 const path = require('path');
 const webpack = require('webpack');
 const merge = require('webpack-merge');
