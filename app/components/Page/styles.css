@@ -1,0 +1,4 @@
+.page-container {
+  height: 200px;
+  width: calc(100% - 300px);
+}

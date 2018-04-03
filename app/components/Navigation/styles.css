@@ -1,0 +1,11 @@
+.navigation-wrapper {
+  display: flex;
+  width: 280px;
+  flex-direction: column;
+  margin-left: 10px;
+  padding-top: 5px;
+}
+
+.navigation-item {
+  margin-bottom: 5px;
+}
